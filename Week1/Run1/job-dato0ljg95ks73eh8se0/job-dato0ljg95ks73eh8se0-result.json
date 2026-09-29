@@ -1,0 +1,567 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBeU2qorqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqGBgYGOgqGmjoKtQrkAS7GkQIYBtoBQxKQGmqjoTxIAQAaAh/K"
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUzESgjAQXFpfkS46QwGtD7DTsbGwchiJY+GoA2qjvsIPS4CQvYAUXkEul70Nuwef1Wa53kZ44KlzU+4LPVf6dU91rPThUtyK7Ly7FLmx9UV2Kk1VL4/Z1VT7aZokSazSWaze6r+YRDaA+mmTOrM5mgoFXMGVATrqFkgQ4yNmYPB4cN8QHiF1I4W70S3NCo8GWFvHCXcfAM/uT70bEGVykfOeD638vs1RSyIP5BZMEiqneTYCmGHIQQZA1FxPrwHeMqkv1AOJC83wTkkzh4YhtXcNEMQ8GEfsxg0vBtQq2911Q5MJdQVi6HUFMRgOUR1l+vX78Tcs8GCcAOALffke9A=="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUr1Ow0AMtlee4rajUoZk5QG6gbowdKqiNhVDRVECLJSn4IXba/zZ32UkUk6xY/v7Of+9vD5vtirf8pMPw7Qf81PKl68uNykfz+Pn2L/vzuNhKPl1f5qGW3566z+GW/zYtW3bpG7VpN/0v+dBVFRVpJz3Tz/FPueKcpSqe6V4pNZRfljSsxo1Nl/VYxUeoDZ5zmvV7xDcIQRrVQss1AV9SEKHvbMgVzBrsJyE8CgAKZ7M1aQCjhi4LIFCpDhlkIoI+nwwNUqoCF6LdjgloZbQlIZV7joqpNG9BlNdDKSLxkC3i/yifpjs5COCn+LgNjT2hwCiBL2w2R12M3A1sI81B53Yv1pIZQvBYy1pm5kTmoQxSKopohuuFGH/gB7//AgPiFZReQUonh5R"
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydU7tOxEAMnGn5iu0CUoqk5QPoQDQUV6GIC6JAHEo4Griv4IfJwx47R8cqUXa99njscX7uHm7vd8Qnvqp9Pz4N1XWpvo9tVZfq+TB8DN3b42HY97P9pnsd+8k+vnTv/XS+bJumqUt7VZdT+d+6AECC82d5aVsuey63q3Hx840FcXXDiuAeNLB5hQsNjnJZM1CONCvsEp7MIYlARwKnucIiSBXijKIUGjfb05cdHXhjwYahE6ETioKNqiDPCnXqDiEewTreoO0UEI96H0sMNi0V7chCdSoEkEShpyqgcFW+mgQnjNAk3SA5pbYwSGYYtVAzkiYmj5oU/zNCbnKyaXCy9lFtHvzojjRIaTe1SWQoDCIV6kkF/RoK07RCbHIXMlcPUOrc0POBDRRN7QT0C7tAHi0="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUzFOw0AQ3G15xXUHkgu7zQPoQDQpqJBFHFEggmygCbyCD5NwuzNjiQrHjn13e7szs3Pft9ubu3u3DzvW3bQ8znVT6uf7ULtS94f5bR5fHg7zbjrPX4/Py3SaX57G1+k0vhz6vu/KcNWVr/K/68Lt99f+3HPoFsP4NrMW1kLbyyNErlg1bGl3Zo4SjvXYn1nadqCIRHxnbY/pgJZLqE4CoKDZjcCTu7FG5onMLnWQMGXyLG6OmBQqh5QgqVNDhAlNU3whnTtEX7Fk60xLSjMdDxttqfKKCPTJ/ggVdhLcnGUFDo2CkmgI4XAlJRRXpc1WJkD3XdSjI4EE1spEdAqNQDvRmyTgGIjlQB+JnXChpBPdX/2Rk0bPs6AoqRLrudFQuFYOoyhMgOdMPzVcHdc="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUjFSw0AMlFpecd3BjAu7zQPoYGhSpGI8xEwKhjA20CS8gg9jx7ervZScPb7zSVqtVvp93D487dy+7ZT3w/Qy5k3K568uNym/HsfPsX9/Po77Ybm/79+mYb6fDv3HMP/fdm3bNqm7a9JP+t+6cbflsWWfl5W/y6trNa6Wy9nXSyvxBcHgY3DgqQQChpFecMJIADf9FvN6JMF6E+ruRDYQNpeUwIMNNRBRqRqSS7kozKlcoalUXK1IS6Wv64WXQWGU5tDayCl8kZMMRRJngAUN+LI/rA65ILXuXn0DL0qLbgVxwbcq1MKdXEjvqkR2MnSttKul4FCjUQLBzumAY2IAyBbWA1OjyfhzUARHQmtZJJ20XPoXqkYnKU7MMxXVYjzeau7+ANO6HZM="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUjFSxDAM1La8wl1gJkXS8gA6GBoKKibDhaFgOCYBGuAVfJicba1Xdx2+O58lWdpdS783d9e397BP++p28/q4dJep+/4Yuz51T/vlfZleH/bLbj74r6aXdd786/P0Nm/2+TgMQ5/Giz79pP+tM9sWDh9Y/pVj3fJCdjdXjnqanxnhH7NqcVmEqedsgEhyjd9W2yIdsIbv7aaRGxSkiqKW6q2kEVm4UfAgtoXa1pJwEgkxvm7dChFHRTlBqB3hlTcIzYhBf5mAC0/0NjtebGNTzCJRK7S37AGBT9VUTCMnGQcEPW2WGjnK57xQvUxey4XcZeYRGszfnZzjfEo7BVSnqekWgZCmyaQ6E5nBNhusGFsgNKBstGOgSGm2D5RAF/sPNUMdTQ=="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUrtOxEAM3Gn5iu0WpBRJywfQgWgorkIRF0SBOJQADcdX8MMktx57LunIPbTxembssX/vHm7vd0hf6bvsh+lpLNe5HD+70uTyfBg/xv7t8TDuhyV+079OwxyfXvr3YX6/7Nq2bXJ31eSf/L/nAml+sPzX03JGsm/i7emzZNXb07WFCQBJHJc2gZpsFNQxeQY9ZmehQqgHY71g5ZEAnKFcw1IBAk0EKgZj39jgEcnRNsUFCimR2Raq2gMTIllcJEw9UwbnBFbSTgMpm7NzJbcnZhH2RHNyFhSdj1mdVRV0Mgq26i/iOLR2+FLWpiEIBXPgVNp04sa4f+H4yoVgl5+Lb32VIMAqjZdbq+aH1etdppsybOquSLgQyhBbbk477g8/MB1L"
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUztOA0EM9Ws5xXQD0ha7LQegA9FQpEIrsogCEbQLNIRTcGGymbH9nEnFKL/x2u9jO793D7f3G8iXfOfttDzN+Trl/eeQu5Sfd/PHPL497ubttMZvxtdlOsSXl/F9Otwvh77vuzRcdekn/e9cCCDrgYC+pMaOb1Ag/sb6QkmrOF7An6JZ9RIoDBSFABUOpKDSHC81xVDQUqLEUKmhNSZbYn4Qcca6Q/pD4KRSwc93EC41NJlPeVDlopoFSbZZlTxH0mn4nZThpE2uR9iX0YlSi8sFzJrnm15ROWJUZIe2S9RbmAe50lKdoFE2un2+YkjRepwEdTPMJ0pWipbRN5inx1vfuNXVs5TYKaqltXdFtrTtX4aWkyEdQ7dOl+kPyZAdFw=="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUzFuwzAM1K19hTalgAd77QO6JejSIVNgNC4yBE1gN13avCIfjqOK5FHNVMGDeKLIuxN9Wb0uX9YIX+E7bYfpbUxPMf2cutTE9H4YP8f+Y3MYt8MNf+730zDj064/DnO86Nq2bWL32MRz/N96CPNC/mwhAGWTg4LJtgRQtOxBt3Jc7t9dLpUoQO4JCGMQcgdYutHxQM1Wu0gBCD84tdDaSt5qG6BF4RqxZ6GYYtQdldK/KuZj1icnyh6qwPhLlrayh8hJ0FNr7+wpBrPDVQ+SCK1Lt1kvHM9f5yEQpwQ/OPTq3NTUmEhH3R6EXqly0o4Vlmo8044S04BnS3b9oXLPFPONSID0uRnWP4xG1g119Seor6RKx/wKv1odFA=="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUrtSw0AMvG35iusuzLiwWz6ALgwNRaqMJzFDwSQZG2gIX8EP52JO0uqcCnss6/S6XUm/Ty/r5w3CV/hO+2HajekhpvNnl5qYXo/jx9gftsdxP1ztj/37NGT79NafhnxedW3bNrG7b+JP/N9zB4T8zCIUNZvE+GcPxQuRKK/4wQVyPjhLQ2Cl65reyhkagBqmSJhfkQD6zVcKIjlUbsYJEXQlkZALiwoHSs6whFCpClMLz/HcMma27Azcj2j5fgTmBRqYBhJIai6jZmY3R2RoQFxLC+Fay4GodsSwEPDSZJALFuHB2BgcNFAivI0ypCKtpt8lv6AOninUWxdcj2O5bLdHatAkRSs4Eq7Qgjx0theKMBzp"
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydU7tSxDAM9LZ8hTsfMymS9j6ADoaGgorJcGGuYLibBGjgvuJ+mEtsrSUFGlz4sZZ2JVk+3z3c3j8ifIavtBum5zFtY/r+6FIT08thfB/7t6fDuBtm/KZ/nYYLPu3743A5b7q2bZvYXTfxFP83rhBkIADLqSwZKpuKLAeaQBBFU0zm3XwBgRc/556tqEHWTBs0LYVEQVGgWFR/mhRVQwfyIKvCaApYoxMFRlu4JUdGFfSAj/UvHCs/W4+VL7wa+HZ0BBngg0Otln7YzAxr6HOiAbQJpH18gVbR/7o6LdOUCiUOpaEhPiykUeUOnIyiKXLtVH6FoluytiVjHV13q0DZ7vKxYFK2ObMTfTdIafkHVB7qQlVmlVT4AaPyHP4="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      },
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydUzFywjAQvG15hTqFGRd2mwekC0NDQcV4wEyKTGDsQAN5RT6MMdbdniAUcSPvnbS3tyf9zhbv8yXkKKe4abp1G19DPB+qWIS43bXfbf212rWb5hp/qz+7po93H/W+6fFLVZZlEappEX7C/76J9B8guC5yAwMagSZFNwwhBZpGyg45MIX7pQUU98G8ouM1qNzjIZiOxG7lYSwWs8OQXKYKhOG8/dEj9gYqU8mdO+SiU8w9MbPuBM+CPXkIx5PQGqC+tGzSqWaB5bqB/10qTdtNM7ObjiDrkZIm8a6Y3U5vDstHYsmvGFkAlcuE3KFdCuoyVdA89ftkKn4cjyyRrBAHuOP0MmykqlfuXi3vuFlyAXB2HOw="
+                    },
+                    "num_bits": 1
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpans",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2026-09-29T09:09:46.035388"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2026-09-29T09:09:56.513227"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "1": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "2": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "3": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "4": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "5": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "6": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "7": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "8": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "9": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "10": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "11": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ],
+                    "12": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}
